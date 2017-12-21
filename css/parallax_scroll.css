@@ -1,0 +1,800 @@
+/* All CSS styles go here */
+html{
+	width: 100%;
+	height: 100%;
+}
+main {
+	width: 100%;
+	height: 100%;
+}
+
+
+#logo {
+	display: block;
+	background: url(../images/home-21.svg);
+	width: 400px;
+	height: 80px;
+	position: absolute;
+	background-repeat: no-repeat;
+	left: 30px;
+	top: 50px;
+}
+
+#menu {
+	position: absolute;
+	right: 30px;
+	top: 70px;
+	font-family: arial; 
+}
+
+#menuline {
+	width: 700px;
+	height: 5px;
+	background-color: red;
+	position: relative;
+	top:180px;
+	left: 30px;
+}
+
+li {
+	height: 50px;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+li a {
+	color: grey;
+	text-decoration: none;
+	padding: 30px;
+	text-align: center;
+}
+
+li a:hover{
+	color: red;
+}
+
+#menu2 {
+	position: absolute;
+	left: 40px;
+	top: 220px;
+	font-size: 1.5em;
+	font-family: arial; 
+}
+#rectangle {
+	background-color: red;
+	height: 5px;
+	width: 650px;
+	left: 150px;
+	position: relative;
+	top: -45px;
+}
+
+#header {
+	color: red;
+	position: absolute;
+	top: 410px;
+	left: 60px;
+	font-size: 3em;
+	font-family: futura; 
+}
+#headerdes {
+	color: grey;
+	position: absolute;
+	top: 475px;
+	left: 60px;
+	font-size: 2em;
+	font-family: playfair; 
+}
+
+#name {
+	font-family: futura; 
+	position: absolute;
+	font-size: 2em;
+	top: 1220px;
+	left: 703px;
+	color: grey;
+}
+
+
+
+#main {
+	height: 2500px;
+}
+
+#vid {
+	margin-top: 400px;
+}
+
+
+
+
+
+
+
+
+#lls {
+	font-family: futura; 
+	position: absolute;
+	font-size: 2em;
+	top: 1040px;
+	left: 702px;
+	color: grey;
+}
+#cc {
+	font-family: playfair; 
+	position: absolute;
+	font-size: 1.5em;
+	top: 1085px;
+	left: 702px;
+	color: grey;
+}
+
+#Coca-cola{
+	font-family: playfair; 
+	position: absolute;
+	font-size: 1.5em;
+	top: 1260px;
+	left: 703px;
+	color: grey;
+}
+
+#africa{
+	font-family: futura; 
+	position: absolute;
+	font-size: 2em;
+	top: 840px;
+	left: 150px;
+	color: grey;
+}
+#rectangle3 {
+	background-color: red;
+	height: 5px;
+	width: 750px;
+	left: 475px;
+	position: relative;
+	top: 525px;
+}
+
+#image {
+	background: url(../images/coca-cola-09.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 700px;
+	top: 540px;
+	background-repeat: no-repeat;
+}
+#header2 {
+	font-family: futura; 
+	position: absolute;
+	font-size: 2em;
+	top: 1555px;
+	left: 730px;
+	color: grey;
+}
+#pick {
+	font-family: futura; 
+	position: absolute;
+	font-size: 3em;
+	top: 1225px;
+	left: 60px;
+	color: red;
+}
+#editorsinfo {
+	color: grey;
+	position: absolute;
+	top: 1870px;
+	left: 60px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#speech {
+	color: grey;
+	position: absolute;
+	top: 1770px;
+	left: 60px;
+	font-size: 1.5em;
+	font-family: futura; 
+}
+#special {
+	font-family: playfair;
+	position: absolute;
+	font-size: 1em;
+	top: 1810px;
+	left: 60px;
+	color: grey;
+}
+#editorstext{
+	font-family: playfair; 
+	position: absolute;
+	font-size: 1.5em;
+	top: 1910px;
+	left: 60px;
+	color: grey;
+}
+
+#editors {
+	background: url(../images/editorspick-24.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 60px;
+	top: 350px;
+	background-repeat: no-repeat;
+}
+#header3 {
+	font-family: futura; 
+	position: absolute;
+	font-size: 2em;
+	top: 2295px;
+	left: 155px;
+	color: grey;
+}
+#publish{
+	font-family: futura; 
+	position: absolute;
+	font-size: 3em;
+	top: 2455px;
+	left: 700px;
+	color: red;
+}
+#rectangle10 {
+	background-color: red;
+	height: 5px;
+	width: 850px;
+	left: 150px;
+	top: 180px;
+	position: relative;
+}
+#picture {
+	background: url(../images/picture-16.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 700px;
+	top: 540px;
+	background-repeat: no-repeat;
+}
+#traditions {
+	color: grey;
+	position: absolute;
+	top: 2585px;
+	left: 705px;
+	font-size: 1.5em;
+	font-family: playfair; 
+}
+
+#rectangle2 {
+	background-color: red;
+	height: 5px;
+	width: 850px;
+	left: 150px;
+	top: 175px;
+	position: relative;
+}
+#headerdes4 {
+	color: grey;
+	position: absolute;
+	top: 2545px;
+	left: 704px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#said {
+	color: grey;
+	position: absolute;
+	top: 2525px;
+	left: 704px;
+	font-size: 2em;
+	font-family: playfair; 
+}
+#four {
+	color: grey;
+	position: absolute;
+	top: 3045px;
+	left: 704px;
+	font-size: 1.5em;
+	font-family: futura; 
+}
+#holiday{
+	font-family: playfair; 
+	position: absolute;
+	font-size: 1em;
+	top: 3075px;
+	left: 704px;
+	color: grey;
+}
+#rectangle4 {
+	background-color: red;
+	height: 5px;
+	width: 750px;
+	left: 470px;
+	position: relative;
+	top: -300px;
+}
+#picture2 {
+	background: url(../images/picture2-17.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 50px;
+	top: 220px;
+	background-repeat: no-repeat;
+}
+#future {
+	color: grey;
+	position: absolute;
+	top: 3035px;
+	left: 850px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#pacific {
+	color: grey;
+	position: absolute;
+	top: 3535px;
+	left: 50px;
+	font-size: 1.5em;
+	font-family: futura; 
+}
+#story {
+	color: grey;
+	position: absolute;
+	top: 3200px;
+	left: 60px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#asia {
+	color: grey;
+	position: absolute;
+	top: 3565px;
+	left: 50px;
+	font-size: 1em;
+	font-family: playfair; 
+}
+#headerdes5 {
+	color: grey;
+	position: absolute;
+	top: 3240px;
+	left: 60px;
+	font-size: 1.5em;
+	font-family: playfair; 
+}
+#rectangle5 {
+	background-color: red;
+	height: 5px;
+	width: 750px;
+	left: 60px;
+	position: relative;
+	top: -335px;
+}
+#digital {
+	color: grey;
+	position: absolute;
+	top: 3655px;
+	left: 60px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#trends {
+	color: grey;
+	position: absolute;
+	top: 4110px;
+	left: 700px;
+	font-size: 1.5em;
+	font-family: futura; 
+}
+#title {
+	color: grey;
+	position: absolute;
+	top: 3885px;
+	left: 700px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#picture3 {
+	background: url(../images/picture3-18.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 700px;
+	top: 10px;
+	background-repeat: no-repeat;
+}
+#headerdes6 {
+	color: grey;
+	position: absolute;
+	top: 3925px;
+	left: 700px;
+	font-size: 1.5em;
+	font-family: playfair; 
+}
+#report{
+	color: grey;
+	position: absolute;
+	top: 4145px;
+	left: 700px;
+	font-size: 1em;
+	font-family: playfair; 
+}
+#rectangle6 {
+	background-color: red;
+	height: 5px;
+	width: 770px;
+	left: 450px;
+	position: relative;
+	top: -635px;
+}
+#lego{
+	color: grey;
+	position: absolute;
+	top: 4415px;
+	left: 800px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#thailand{
+	color: grey;
+	position: absolute;
+	top: 4555px;
+	left: 60px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#picture4 {
+	background: url(../images/picture4-19.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 50px;
+	top: -250px;
+	background-repeat: no-repeat;
+}
+#webinars {
+	color: grey;
+	position: absolute;
+	top: 4650px;
+	left: 52px;
+	font-size: 1.5em;
+	font-family: futura; 
+}
+#headerdes7 {
+	color: grey;
+	position: absolute;
+	top: 4680px;
+	left: 52px;
+	font-size: 1em;
+	font-family: playfair; 
+}
+#leggo{
+	color: grey;
+	position: absolute;
+	top: 4595px;
+	left: 60px;
+	font-size: 1.5em;
+	font-family: playfair; 
+}
+#rectangle7 {
+	background-color: red;
+	height: 5px;
+	width: 770px;
+	left: 120px;
+	position: relative;
+	top: -800px;
+}
+#one {
+	color: grey;
+	position: absolute;
+	top: 5070px;
+	left: 122px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#start{
+	color: grey;
+	position: absolute;
+	top: 5240px;
+	left: 700px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#choc{
+	color: grey;
+	position: absolute;
+	top: 5280px;
+	left: 700px;
+	font-size: 1.5em;
+	font-family: playfair; 
+}
+#rectangle8 {
+	background-color: red;
+	height: 5px;
+	width: 760px;
+	left: 540px;
+	position: relative;
+	top: -1600px;
+}
+#picture5 {
+	background: url(../images/picture5-20.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 700px;
+	top: -500px;
+	background-repeat: no-repeat;
+}
+#chicago {
+	color: grey;
+	position: absolute;
+	top: 5805px;
+	left: 890px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#shoe {
+	color: grey;
+	position: absolute;
+	top: 5980px;
+	left: 60px;
+	font-size: 2em;
+	font-family: futura; 
+}
+#kiwi {
+	color: grey;
+	position: absolute;
+	top: 6025px;
+	left: 60px;
+	font-size: 1.5em;
+	font-family: playfair; 
+}
+#headerdes8 {
+	color: grey;
+	position: absolute;
+	top: 5255px;
+	left: 705px;
+	font-size: 1em;
+	font-family: playfair; 
+}
+#long {
+	color: grey;
+	position: absolute;
+	top: 5220px;
+	left: 705px;
+	font-size: 1.5em;
+	font-family: futura; 
+}
+#picture6 {
+	background: url(../images/picture6-21.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 50px;
+	top: -775px;
+	background-repeat: no-repeat;
+}
+#lock {
+	color: grey;
+	position: absolute;
+	top: 5700px;
+	left: 50px;
+	font-size: 1.5em;
+	font-family: futura; 
+}
+#headerdes9 {
+	color: grey;
+	position: absolute;
+	top: 5755px;
+	left: 50px;
+	font-size: 1em;
+	font-family: playfair; 
+}
+
+#picture7 {
+	background: url(../images/picture7-22.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 700px;
+	top: -1050px;
+	background-repeat: no-repeat;
+}
+#wellness {
+	color: grey;
+	position: absolute;
+	top: 6200px;
+	left: 703px;
+	font-size: 1.5em;
+	font-family: futura; 
+}
+#headerdes10 {
+	color: grey;
+	position: absolute;
+	top: 6235px;
+	left: 703px;
+	font-size: 1em;
+	font-family: playfair; 
+}
+#picture8 {
+	background: url(../images/picture8-23.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 50px;
+	top: -1300px;
+	background-repeat: no-repeat;
+}
+#makers {
+	color: grey;
+	position: absolute;
+	top: 6700px;
+	left: 50px;
+	font-size: 1.5em;
+	font-family: futura; 
+}
+#headerdes11 {
+	color: grey;
+	position: absolute;
+	top: 6735px;
+	left: 50px;
+	font-size: 1em;
+	font-family: playfair; 
+}
+
+#work {
+	background: url(../images/work1-25.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 703px;
+	top: 550px;
+	background-repeat: no-repeat;
+}
+
+#work1 {
+	background: url(../images/work1-12.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 60px;
+	top: 520px;
+	background-repeat: no-repeat;
+}
+#work2 {
+	background: url(../images/work1-10.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 703px;
+	top: 300px;
+	background-repeat: no-repeat;
+}
+#work3 {
+	background: url(../images/coca-cola-09.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 60px;
+	top: 600px;
+	background-repeat: no-repeat;
+}
+#work4 {
+	background: url(../images/work1-13.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 700px;
+	top: 275px;
+	background-repeat: no-repeat;
+}
+#work5 {
+	background: url(../images/work1-14.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 700px;
+	top: -200px;
+	background-repeat: no-repeat;
+}
+#work6 {
+	background: url(../images/work1-15.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 60px;
+	top: 500px;
+	background-repeat: no-repeat;
+}
+.work7 {
+	background: url(../images/work1-26.svg);
+	position: relative;
+	width: 600px;
+	height: 600px;
+	left: 60px;
+	top: 1045px;
+	background-repeat: no-repeat;
+	display: block;
+}
+.work7:hover {
+	padding: 10px;
+	box-sizing: border-box;
+	color: white;
+	opacity: 0.5;
+}
+.second_button {
+	display: block; /* You must include this line, otherwise your link will not be shown! */
+	width: 200px;
+	height: 70px;
+
+	position: absolute;
+	left: 1210px;
+	top: 1290px;
+
+	font-family: futura;
+	font-size: 30px;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	line-height: 65px;
+}
+#legoheader {
+	color: red;
+	position: absolute;
+	top: 370px;
+	left: 700px;
+	font-size: 3em;
+	font-family: futura; 
+
+}
+#build {
+	background: url(../images/in-27.svg);
+	position: relative;
+	width: 750px;
+	height: 750px;
+	left: 70px;
+	top: 470px;
+	background-repeat: no-repeat;
+	margin: 25px;
+}
+#square {
+	background-color: grey;
+	height: 500px;
+	width: 760px;
+	left: 600px;
+	position: relative;
+	top: 90px;
+	opacity: .2;
+}
+#square1 {
+	background-color: red;
+	height: 5px;
+	width: 760px;
+	left: 600px;
+	position: relative;
+	top: -360px;
+}
+#world {
+	font-family: futura; 
+	position: absolute;
+	font-size: 2em;
+	top: 875px;
+	left: 640px;
+	color: black;
+}
+#kids{
+	font-family: arial; 
+	position: absolute;
+	font-size: 1.5em;
+	top: 915px;
+	left: 640px;
+	color: black;
+}
+#article {
+	font-family: playfair; 
+	position: absolute;
+	font-size: 1em;
+	top: 965px;
+	left: 640px;
+	color: black;
+}
